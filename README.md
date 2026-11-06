@@ -21,8 +21,9 @@
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/13S7t0sW6-VwO26PuqHLjP1V8PbGZ8lrR/view?usp=drive_link "Modul 11") | [Program](https://github.com/Bagaspriooo/Modul-11) |
 |  11 | 25-10-2025  | 08  | Ujian Tengah Semester  | [UTS](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/Bagaspriooo/UTS-Mobile-Pro_Bagas-Prio_240605110105) |
 |  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1yuZZlfHzO7k4Zpr8FfuIQrLT2vfEc3A-/view?usp=drive_link "Modul 12") | [Program](https://github.com/dwiandina08-oss/lokasi_flutter "Template laporan") |
-|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1Dx264IRgwQPzcBBb2tF33sEKujytMuCy/view?usp=drive_link "Modul 13") | [Program](https://github.com/dwiandina08-oss/flutter_crud_api "Template laporan") |
+|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1Dx264IRgwQPzcBBb2tF33sEKujytMuCy/view?usp=drive_link "Modul 13") | [Program](https://github.com/Bagaspriooo/Modul-13) |
 |  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13](https://drive.google.com/file/d/1svKbM5HpSksckGown1KL_MsdPSKNVoaZ/view?usp=drive_link "UAS") | [Program](https://github.com/dwiandina08-oss/UAS "Template laporan") |
+
 
 
 - 🔭 I’m currently working on ...
